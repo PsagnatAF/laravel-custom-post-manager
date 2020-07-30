@@ -32,7 +32,7 @@ database as the package does that automatically for you and save the data and sh
 Install the package via composer:
 
 ```
-composer require niku-solutions/cms
+composer require psagnataf/cms
 ```
 
 Register the following class into the 'providers' array in your config/app.php
